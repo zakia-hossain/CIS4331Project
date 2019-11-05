@@ -1,4 +1,4 @@
-﻿Startup name: käm?ent
+Startup name: käm?ent
 
 Phase 1 : Design the ER diagram
 Main Entities:-
