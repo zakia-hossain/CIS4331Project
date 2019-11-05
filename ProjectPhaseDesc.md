@@ -1,6 +1,6 @@
-Startup name: käm?ent
+# Startup name: käm?ent
 
-Phase 1 : Design the ER diagram
+### Phase 1 : Design the ER diagram
 Main Entities:-
 1. Customer: A news outlet - NBC News
 2. Article: Attributes - title, author, publication date, last updated, and topic
