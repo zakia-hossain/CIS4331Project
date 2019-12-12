@@ -1,0 +1,16 @@
+SMAP
+openOR_jsp.java
+JSP
+*S JSP
+*F
++ 0 openOR.jsp
+openOR.jsp
+*L
+5,15:48
+20,38:64
+57,6:102
+62,4:108
+65,3:112
+68:115,3
+69,6:118
+*E
